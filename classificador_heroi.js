@@ -1,3 +1,4 @@
+// conforme as instrucoes e aulas do curso ate agora
 let nome = "Aldo";
 let XP = 2000;
 
@@ -23,7 +24,7 @@ switch (true) {
     break;
 
   default:
-    console.log("Imortal"); // ou o que você quiser para XP >= 8001
+    console.log("Imortal"); 
     break;
 }
 
