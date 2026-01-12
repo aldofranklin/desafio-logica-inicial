@@ -28,4 +28,4 @@ switch (true) {
     break;
 }
 
-console.log("O herói ${nome} tem ${XP} de XP.");
+console.log("O herói " + nome + " tem " + XP + " de XP.");
