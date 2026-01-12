@@ -1,6 +1,6 @@
 // conforme as instrucoes e aulas do curso ate agora
 let nome = "Aldo";
-let XP = 2000;
+let XP = 5000;
 
 switch (true) {
   case XP < 1000:
@@ -28,4 +28,4 @@ switch (true) {
     break;
 }
 
-console.log(`O herói ${nome} tem ${XP} de XP.`);
+console.log("O herói ${nome} tem ${XP} de XP.");
