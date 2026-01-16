@@ -22,7 +22,7 @@ class Jogo {
   }
 }
 
-let teste = new Jogo("Aldo", 52, "monge");
+let teste = new Jogo("Aldo", 22, "monge");
 teste.atacar();
 
 
